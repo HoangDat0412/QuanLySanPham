@@ -1,0 +1,15 @@
+{
+  "name": "quanlysanpham",
+  "version": "1.0.0",
+  "description": "quản lý dự án backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app/index.js"
+  },
+  "author": "HoangDat",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
